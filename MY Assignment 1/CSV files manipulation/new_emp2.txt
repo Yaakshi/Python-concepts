@@ -1,0 +1,3 @@
+empname,dept,birthmonth
+John,CSE,April
+Erica,ECE,October
